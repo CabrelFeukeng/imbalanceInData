@@ -16,4 +16,17 @@ SMOTEest une technique de pretraitement des données utilisée dans la cadre des
 
 
 
+\sqrt{x}
+
+\x
+
+
+x^n
+
+x^2
+
+\|x\_2 = \sqrt{x_1^2 + x_2^2 + \dots + x_n^9}
+
+
+\|x\|_\infty = \max (|x_1|, |x_2|, \dots , |x_n|)
 
