@@ -1,5 +1,6 @@
 # Mon Projet
 
-Voici un logo de mon projet :
 
-![Logo](images/bonhomme.jpeg "Logo de Mon Projet")
+
+1. * Le Déséquilibre entre les classes d'un jeux de données.
+![Logo](images/title.png "Logo de Mon Projet")
