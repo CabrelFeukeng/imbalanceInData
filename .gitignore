@@ -1,6 +1,7 @@
 virtual_env/
 *.env
 
+.vscode/
 
 __pycache__/
 *.py[cod]
